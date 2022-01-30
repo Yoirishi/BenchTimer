@@ -1,6 +1,4 @@
-﻿//version 0.0.1
-
-using System.Diagnostics;
+﻿using System.Diagnostics;
 
 namespace BenchTimer;
 
@@ -68,7 +66,8 @@ namespace BenchTimer;
             switch (_log)
             {
                 case LogIn.CONSOLE:
-                    Console.WriteLine(elapsedAsLong());
+                    long time = elapsedAsLong();
+                    Console.WriteLine($"Timer {_id} is stop. Elapsed time in choosen format: {time}");
                     break;
                 case LogIn.FILE:
                     break;
