@@ -1,0 +1,12 @@
+C:\Projects\csharp\BenchTimer\BenchTimer\obj\Debug\net6.0\BenchTimer.csproj.AssemblyReference.cache
+C:\Projects\csharp\BenchTimer\BenchTimer\obj\Debug\net6.0\BenchTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\BenchTimer\BenchTimer\obj\Debug\net6.0\BenchTimer.AssemblyInfoInputs.cache
+C:\Projects\csharp\BenchTimer\BenchTimer\obj\Debug\net6.0\BenchTimer.AssemblyInfo.cs
+C:\Projects\csharp\BenchTimer\BenchTimer\obj\Debug\net6.0\BenchTimer.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\BenchTimer\BenchTimer\bin\Debug\net6.0\BenchTimer.deps.json
+C:\Projects\csharp\BenchTimer\BenchTimer\bin\Debug\net6.0\BenchTimer.dll
+C:\Projects\csharp\BenchTimer\BenchTimer\bin\Debug\net6.0\ref\BenchTimer.dll
+C:\Projects\csharp\BenchTimer\BenchTimer\bin\Debug\net6.0\BenchTimer.pdb
+C:\Projects\csharp\BenchTimer\BenchTimer\obj\Debug\net6.0\BenchTimer.dll
+C:\Projects\csharp\BenchTimer\BenchTimer\obj\Debug\net6.0\ref\BenchTimer.dll
+C:\Projects\csharp\BenchTimer\BenchTimer\obj\Debug\net6.0\BenchTimer.pdb
